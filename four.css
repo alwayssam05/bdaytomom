@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex-container{
+    background-image: url('pink1.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+.flex-box{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.926);
+    border-radius: 40px;
+    margin: auto;
+    align-items: center;
+}
+.bo1{
+    margin-top: 30px;
+}
+.image1{
+    width: 500px;
+    height: 1000px;
+    background-image: url('dad2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.image2{
+    width: 500px;
+    height: 1000px;
+    background-image: url('mom2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.image3{
+    width: 500px;
+    height: 1000px;
+    background-image: url('bro2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.image4{
+    width: 500px;
+    height: 1000px;
+    background-image: url('me2.jpg');
+    background-position:60%;
+    background-size: cover;
+}
+
+.but{
+    width: 320px;
+    height: 120px;
+    border-radius: 10px;
+    font-family: 'Bree Serif';
+    border: none;
+    background-color: black;
+    color: pink;
+    margin-top: 50px;
+    margin-right: 20px;
+    font-size: 40px;
+}
+.bg-container{
+    align-items: end;
+}
